@@ -1,0 +1,25 @@
+.title_imc {
+    text-align: center;
+    margin-top: 25px;
+    padding: 30px;
+    background-color: aquamarine;
+}
+
+.peso_imc {
+   font-size: 16px;
+   font-weight: bold;   
+}
+
+.altura_imc {
+    font-size: 16px; 
+    font-weight: bold;     
+}
+
+.container_input {
+    text-align: center;          
+}
+
+.btn_imc {
+    margin: 10px;
+    text-align: center;
+}
